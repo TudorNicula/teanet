@@ -1,0 +1,119 @@
+[
+  {
+    "Name": "Lovare LOVE BLOSSOM",
+    "Description": "Lovare LOVE BLOSSOM - A Romantic Fusion of Flavors Let your senses bloom with Lovare LOVE BLOSSOM, a captivating black loose-leaf tea infused with the luscious sweetness of fruits and the delicate charm of flower petals. Inspired by nature's beauty, this exquisite tea delivers a fragrant and flavorful experience that celebrates love in every sip.",
+    "Price": 60,
+    "PictureUrl": "/images/products/lv-bl.webp",
+    "Type": "Tube tea",
+    "Brand": "Lovare",
+    "QuantityInStock": 82
+  },
+  {
+    "Name": "Lovare Winter Tea",
+    "Description": "Lovare Winter Tea: Immerse yourself in the festive spirit with this exquisite blend of black tea. Lovare Winter Tea features a harmonious mix of papaya and mango pieces, safflower flower petals, and natural aromas of persimmon, saffron, and melon. This elegant and aromatic composition is the perfect choice for cozy winter moments, offering a delightful taste experience with every sip.",
+    "Price": 60,
+    "PictureUrl": "/images/products/winter.webp",
+    "Type": "Tube tea",
+    "Brand": "Lovare",
+    "QuantityInStock": 75
+  },
+  {
+    "Name": "Night Beautea",
+    "Description": "Lovare Night Beautea - Savor the Night's Elegance with Lovare Night Beautea! Immerse yourself in the deep, intense, and rich flavor of this premium black tea. Lovare Night Beautea is delicately infused with the enticing aroma of figs and royal plums, perfectly complemented by the gentle notes of cornflower petals. This unique blend of natural ingredients delivers an unforgettable taste and a soothing experience.Each package includes 15 single-use tea filters for those who appreciate loose-leaf tea but prefer a clear cup.",
+    "Price": 60,
+    "PictureUrl": "/images/products/ng-beau.webp",
+    "Type": "Tube tea",
+    "Brand": "Lovare",
+    "QuantityInStock": 3
+  },
+  {
+    "Name": "Wild Berry Tea",
+    "Description": "Delicacy as its Sweetest Point: Meet succulent tea blend inspired by a combination of delicious tea and ensemble of berries. Wild Berry dives you into Candyland with long-lasting aftertaste of full-leaf tea.Combination that Catches You: Sourness and velvet, muscat, and tart flavor of Wild Berry are achieved by mix of Black tea, Cherry, Rose hips, Hawthorn berries, Elderberry, Black currant berries, Rose petals, and Strawberry.Be Brewer in 5 Minutes: Beauty and flavor of Wild Berry loose tea leaves are available to anyone within a 5-minute distance. Put some tea in one of 15 paper filters, place it in mug or teapot, and pour hot water.Memorable Present: Vibrant violet floral-fruit tube will be right present choice. Wild Berry tea loose leaf comes in a gift box, and it takes only bringing tube to recipient.",
+    "Price": 60,
+    "PictureUrl": "/images/products/wl-berry.webp",
+    "Type": "Tube tea",
+    "Brand": "Lovare",
+    "QuantityInStock": 52
+  },
+  {
+    "Name": "Alpine Herbs Tea",
+    "Description": "Power of Nature and Spring: Warmth of spring meadows and love of sun are contained inside Alpine Herbs tea tube. Convenient cylindrical form and loose tea leaves inside are what any tea-lover values.Multiple Fragrances: Alpine Herbs tea is produced from lemongrass, chamomile flowers, rose hips, orange peel, mint, blackberry leaves, apple, orange blossom, echinacea, safflower petals, and cornflower petals give tea deep and rich taste.Aromas and Flavor: While drinking tea loose leaves you may feel sweetness, freshness, fruity and floral notes. Alpine Herbs tea is what anyone desires after long working days and during family celebrations.Gift You Could Wish for: Take Alpine Herbs tea as a present for beloved ones. Looseleaf tea in floral yellow tube is designed to always please eye. Suitable for women, girls, relatives, and family.",
+    "Price": 60,
+    "PictureUrl": "/images/products/alpine-hb.webp",
+    "Type": "Tube tea",
+    "Brand": "Lovare",
+    "QuantityInStock": 97
+  },
+  {
+    "Name": "Bahamian Soursop Tea",
+    "Description": "Islands of Paradise in Your Cup: Warmth, sweet breeze, and delicacy are contained inside Bahamian Soursop tea tube. Convenient cylindrical form and tea leaves inside are what any tea-lover values.Multiple Fragrances: Bahamian Soursop loose tea leaves is produced from Green tea as a basis, while Soursop and Orange Blossom give tea deep, rich, and fresh taste.Aromas and Flavor: While drinking tea loose leaf you may feel sweetness, freshness, fruity and floral notes. Bahamian Soursop tea is what anyone desires after long working days and during family celebrations.Gift You Could Wish for: Take Bahamian Soursop looseleaf tea as a present for beloved ones. Tea in floral green tube is designed to always please eye. Suitable for women, girls, relatives, and family.",
+    "Price": 60,
+    "PictureUrl": "/images/products/bah-sour.png",
+    "Type": "Tube tea",
+    "Brand": "Lovare",
+    "QuantityInStock": 37
+  },
+  {
+    "Name": "Champagne Splashes Tea",
+    "Description": "Truly French Touch: Meet tea blend enriched with flavors and notes of multiple diverse ingredients. Champagne Splashes give you the pleasure of full-leaf tea in a single cup.Combination that Catches You: Freshness and bouquet of Champagne Splashes start with mix of Sencha green and black tea loose leaf, strawberry pieces, cornflower and safflower petals, and goji berries.Be Brewer in 5 Minutes: Beauty and flavor of Champagne Splashes loose tea leaves are available to anyone within a 5-minute distance. Put some tea in one of 15 paper filters, place it in mug or teapot, and pour hot water.Memorable Present: Vibrant turquoise floral-berry tube will be right present choice. Champagne Splashes tea loose comes in a gift box, and it takes only bringing tube to recipient.",
+    "Price": 60,
+    "PictureUrl": "/images/products/champ-splas.webp",
+    "Type": "Tube tea",
+    "Brand": "Lovare",
+    "QuantityInStock": 32
+  },
+  {
+    "Name": "Cleopatra's Night Tea",
+    "Description": "Experience precious moments of exquisite passion with every sip of our exclusive tea blend. Our Gun Powder Tea pearls, delicately combined with rubies of goji berries and amber-colored pieces of pineapple, create a unique and flavorful tea that sparkles like gems of bright petals and pink buds. Hand-rolled and carefully selected for exceptional quality, the Gun Powder Tea pearls unfurl during brewing, releasing their full flavor and aroma for a smooth and refreshing tea that delights the senses. Blended with juicy and sweet goji berries and amber-colored pieces of pineapple, this tea becomes a true gem of flavors and aromas. The bright and colorful petals and buds add a touch of tenderness, creating a unique and elegant experience. Perfect for those who seek a balance of sweet and tart flavors and appreciate natural and healthy ingredients. Savor the tenderness of taste and create treasured memories that will last a lifetime. Whether in the morning, afternoon, or evening, our exclusive tea blend offers a unique and unforgettable experience that will leave you wanting more.",
+    "Price": 60,
+    "PictureUrl": "/images/products/cleo-ng.png",
+    "Type": "Tube tea",
+    "Brand": "Lovare",
+    "QuantityInStock": 6
+  },
+  {
+    "Name": "Strawberry Marshmallow tea",
+    "Description": "Strawberry Marshmallow is a blend of green tea leaves, black tea, oolong tea, cornflower petals, thyme, and mint.The harmonious combination of opposing flavors will definitely not leave you indifferent, on the contrary, it will invite you to enjoy another cup of tea.It contains 15 disposable filters for infusion.",
+    "Price": 60,
+    "PictureUrl": "/images/products/straw-marsh.webp",
+    "Type": "Tube tea",
+    "Brand": "Lovare",
+    "QuantityInStock": 17
+  },
+  {
+    "Name": "Passion Fruit Tea",
+    "Description": "Passion Fruit Tea: Meet succulent tea blend inspired by a combination of delicious and bright fruits. Passion Fruit takes you to distant lands with long-lasting aftertaste of full-leaf tea.Combination that Catches You: Freshness and bouquet of Passion Fruit tea start with mix of black tea, orange peel, rosebuds, calendula petals, safflower petals, pineapple, and peach.Be Brewer in 5 Minutes: Beauty and flavor of Passion Fruit loose tea leaves are available to anyone within a 5-minute distance. Put some tea in one of 15 paper filters, place it in mug or teapot, and pour hot water.Memorable Present: Vibrant peachy floral-fruit tube will be right present choice. Passion Fruit tea loose leaf comes in a gift box, and it takes only bringing tube to recipient.",
+    "Price": 60,
+    "PictureUrl": "/images/products/passi-ft.webp",
+    "Type": "Tube tea",
+    "Brand": "Lovare",
+    "QuantityInStock": 74
+  },
+  {
+    "Name": "1001 Nights Tea",
+    "Description": "Unique Blend - Amazing combination of herbs, fruits and flowers in your hot mug. Taste the magic bouquet of blooming tea leaves.Full Set - Black and Green Tea with Floral-fruit blend (80 g). Also, you can find free empty tea bags in a tube for your complete pleasure.Composition - Ceylon black long leaf tea premium grade, Chinese green long leaf tea premium grade Sencha, buds and rose petals, apple fruits, cornflower, calendula & safflower flower petals.Packaging - Elegant gift box to impress your mother, women, sister, daughter, wife. Best present for tea & coffee lovers on birthday, Christmas, anniversary, wedding, Valentines Day, Thanksgiving, Mothers Day.",
+    "Price": 60,
+    "PictureUrl": "/images/products/1001-ng.webp",
+    "Type": "Tube tea",
+    "Brand": "Lovare",
+    "QuantityInStock": 19
+  },
+  {
+    "Name": "Royal Desert Tea",
+    "Description": "Try our Royal Desert tea - a luxurious blend of black and green tea with natural grape flavor, fruit pieces, and delicate flower petals. Enjoy the perfect balance of robust and full-bodied black tea and light and refreshing green tea, with subtle fruity and floral notes. It's ideal for any time of day, hot or iced, and comes in beautiful packaging - a great gift for tea lovers. Elevate your tea-drinking experience today!",
+    "Price": 60,
+    "PictureUrl": "/images/products/rl-deser.webp",
+    "Type": "Tube tea",
+    "Brand": "Lovare",
+    "QuantityInStock": 77
+  },
+  {
+    "Name": "Berry Jam Tea",
+    "Description": "Discover Berry Jam - a delightful blend of fruit, berry, and flower tea with the delicious taste of cherry, raspberry, and black currant. Savor the vibrant flavors and aromas of this exquisite tea, made from the finest natural ingredients. Enjoy it hot or iced, any time of the day, and let the fruity and floral notes transport you to a world of pure bliss. Try Berry Jam today and experience the perfect blend of taste and aroma in every cup.Berry Jam - Imagine being able to savor the taste of a summer day in a cup of tea. This tea is a delicious blend of hibiscus, berries, and flower petals.Contains 15 disposable filters for infusion.",
+    "Price": 60,
+    "PictureUrl": "/images/products/berry-jam.webp",
+    "Type": "Tube tea",
+    "Brand": "Lovare",
+    "QuantityInStock": 49
+  }
+]
